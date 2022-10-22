@@ -40,9 +40,10 @@ main >div >ul >h1{
 main >div >ul >li{
     font-size: 30px;
 }
-main >div{
+main >div > ul{
     padding-left: 70px;
 }
+
 footer >div{
     display: flex;
     justify-content: space-between;
