@@ -44,11 +44,20 @@ main >div > ul{
     padding-left: 70px;
 }
 
-footer >div{
+footer{
     display: flex;
-    justify-content: space-between;
-    padding-left: 50px;
-    padding-right: 50px;
+    /* align-items: center; */
+    justify-content: space-around;
+    /* padding-left: 50px;
+    padding-right: 50px; */
+}
+.r{
+    text-align: center;
+    padding: 40px;
+}
+.fd{
+    display: flex;
+    justify-content: center;
 }
 .SELF{
     display: flex;
