@@ -51,6 +51,7 @@ footer >div{
     padding-right: 50px;
 }
 .SELF{
+    display: flex;
     padding-left: 150px;
     padding-right: 150px;
     margin-top: 0;
@@ -60,4 +61,7 @@ h1{
 }
 .font{
     margin: 0px;
+}
+html{
+    display: flex;
 }
