@@ -51,6 +51,9 @@ footer{
     /* padding-left: 50px;
     padding-right: 50px; */
 }
+footer a{
+text-decoration: none;
+}
 .r{
     text-align: center;
     padding: 40px;
