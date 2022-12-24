@@ -5,18 +5,19 @@ header >div{
     display: flex;
     text-align: center;
     /* justify-items: r; */
-    justify-content: space-around;
-    
+    justify-content: center;
+    gap: 70px;
 }
 .paul{
     float: right; 
-    padding-left: 45px;
+    /* padding-left: 45px; */
 }
 .imag{
-    width: auto;
-    height: 350px;
+    width: 200px;
+    height: 150px;
     border-radius: 30px;
     padding-left: 20px;
+    object-fit: cover;
 }
 .Ezeta{
     font-size: 60px;
@@ -28,7 +29,7 @@ body >main >p{
     margin: 0px;
 }
 main >div >h1{
-    background-color: blueviolet;
+    background-color: rgb(138, 43, 226);
     font-size: 45px;
 }
 main >div >ul{
